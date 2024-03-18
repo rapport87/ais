@@ -32,6 +32,7 @@ class ChatCallbackHandler(BaseCallbackHandler):
 llm = ChatOpenAI(
     temperature=0.1,
     streaming=True,
+    model="gpt-3.5-turbo-1106",
     callbacks=[
         ChatCallbackHandler(),
     ],
@@ -98,7 +99,7 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 
-st.title("약관AI")
+st.title("Terms AI")
 
 st.markdown(
     """
@@ -106,7 +107,7 @@ st.markdown(
             
 복잡한 약관을 읽지 않고 
 
-AI에게 필요한 내용만 질문하여 알 수 있는 약관AI(ChatGPT3.5) 입니다
+AI에게 필요한 내용만 질문하여 알 수 있는 TermAI(약관AI) 입니다
 
 약관에 관련된 문서 말고 다른 문서도 가능합니다!
 
