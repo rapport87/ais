@@ -25,6 +25,8 @@ Teacher AI
 Video AI 
 영상을 업로드하고 해당 영상의 내용을 AI가 학습하여 사용자의 질문에 대한 답변을 제공합니다.
 
-- [x] [약관AI](/TermsAI)
+- [약관AI](/TermsAI)
+- [선생님AI](/TermsAI)
+- [비디오AI](/TermsAI)
 """
 )
