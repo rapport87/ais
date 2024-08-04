@@ -13,19 +13,19 @@ Langchain을 이용하여
 
 ## 📜Term AI(약관AI)
 **설명**
-영상파일을 업로드 받아 해당 영상의 내용을 학습해 사용자의 질문에 답변해주는 비디오AI 프로젝트
+·영상파일을 업로드 받아 해당 영상의 내용을 학습해 사용자의 질문에 답변해주는 비디오AI 프로젝트
 
 **주요기능**
 ·문서 파일 읽기
 ·ChatGPT 모델을 이용한 답변 생성 및 제공
 
 **Detail**
-URL : https://ikvi.notion.site/AI-7eca101b8c5542e7880493b1e9ad70fd
+·URL : https://ikvi.notion.site/AI-7eca101b8c5542e7880493b1e9ad70fd
 
 
 ## 👨‍🏫Teacher AI(선생님AI)
 **설명**
-문서 파일을 업로드 하거나 검색어를 입력받아 해당 내용에 관련된 문제를 출제해주는 선생님AI 프로젝트
+·문서 파일을 업로드 하거나 검색어를 입력받아 해당 내용에 관련된 문제를 출제해주는 선생님AI 프로젝트
 
 **주요기능**
 ·문서파일 업로드
@@ -34,12 +34,12 @@ URL : https://ikvi.notion.site/AI-7eca101b8c5542e7880493b1e9ad70fd
 ·JSON 형태로 변환된 문제를 Form으로 변환하여 사용자에게 제공
 
 **Detail**
-URL : https://ikvi.notion.site/AI-a0cefbc3e6fc4a708d585ecc9289deff?pvs=4
+·URL : https://ikvi.notion.site/AI-a0cefbc3e6fc4a708d585ecc9289deff?pvs=4
 
 
 ## 📼Video AI(비디오AI)
 **설명**
-영상파일을 업로드 받아 해당 영상의 내용을 학습해 사용자의 질문에 답변해주는 비디오AI 프로젝트
+·영상파일을 업로드 받아 해당 영상의 내용을 학습해 사용자의 질문에 답변해주는 비디오AI 프로젝트
 
 **주요기능**
 ·영상파일 업로드
@@ -48,14 +48,11 @@ URL : https://ikvi.notion.site/AI-a0cefbc3e6fc4a708d585ecc9289deff?pvs=4
 ·ChatGPT 모델을 이용한 답변 생성 및 제공
 
 **Detail**
-URL : https://ikvi.notion.site/AI-85021f223b28445b9c20d27b2e7bc7b1
+·URL : https://ikvi.notion.site/AI-85021f223b28445b9c20d27b2e7bc7b1
 
 
 ## ⚙️개발환경
-Backend : Python
-
-Framework : Langchain
-
-Library : pydub
-
-Depolyment : Docker
+·Backend : Python
+·Framework : Langchain
+·Library : pydub
+·Depolyment : Docker
