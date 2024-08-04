@@ -53,6 +53,9 @@ URL : https://ikvi.notion.site/AI-85021f223b28445b9c20d27b2e7bc7b1
 
 ## ⚙️개발환경
 Backend : Python
+
 Framework : Langchain
+
 Library : pydub
+
 Depolyment : Docker
